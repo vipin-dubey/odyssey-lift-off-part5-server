@@ -46,7 +46,7 @@ const resolvers = {
     },
 
     /* Track.author and Track.modules resolvers */
-    durationInSeconds: ({ length }) => lenght,
+    durationInSeconds: ({ durationInSeconds }) => durationInSeconds,
   },
 };
 
